@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">João Victor</title>
+  <desc id="desc">Software, Dados e Estatística. Banner grafite com detalhes em ciano.</desc>
+  <!-- Paleta: fundo #0D1117, destaque #58C4DC, texto #E6EDF3. -->
+  <rect x="1" y="1" width="998" height="228" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <rect x="56" y="64" width="4" height="100" rx="2" fill="#58C4DC"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="80" y="109" fill="#E6EDF3" font-size="48" font-weight="600">João Victor</text>
+    <text x="82" y="150" fill="#58C4DC" font-size="22">Software • Dados • Estatística</text>
+  </g>
+  <g fill="none" stroke="#30363D" stroke-width="1">
+    <path d="M660 64V172H942"/>
+    <path d="M660 118H942M754 64V172M848 64V172" opacity="0.45"/>
+  </g>
+  <path d="M682 148L737 128L792 139L851 92L921 73" fill="none" stroke="#58C4DC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  <g fill="#0D1117" stroke="#58C4DC" stroke-width="2">
+    <circle cx="682" cy="148" r="4"/>
+    <circle cx="737" cy="128" r="4"/>
+    <circle cx="792" cy="139" r="4"/>
+    <circle cx="851" cy="92" r="4"/>
+    <circle cx="921" cy="73" r="4"/>
+  </g>
+</svg>
