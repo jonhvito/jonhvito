@@ -56,29 +56,25 @@ Tenho interesse em otimização combinatória, pesquisa operacional e teoria dos
 
 ## Estatísticas do GitHub
 
-<details>
-  <summary>Ver contribuições e linguagens dos repositórios</summary>
-  <br />
+<!--
+  Tema dos cards (cores hexadecimais sem # nas URLs):
+  fundo: 0D1117 | destaque: 58C4DC | texto: E6EDF3
+  Stats/Top Languages: bg_color, title_color, text_color, icon_color.
+  Streak: background, ring, fire, currStreakLabel, sideLabels,
+  dates, currStreakNum e sideNums.
+  Para mudar a paleta, substitua esses três códigos nas URLs e no banner.
+  commits_year=2026 seleciona os commits desde janeiro de 2026.
+-->
 
-  <!--
-    Tema dos cards (cores hexadecimais sem # nas URLs):
-    fundo: 0D1117 | destaque: 58C4DC | texto: E6EDF3
-    Stats/Top Languages: bg_color, title_color, text_color, icon_color.
-    Streak: background, ring, fire, currStreakLabel, sideLabels,
-    dates, currStreakNum e sideNums.
-    Para mudar a paleta, substitua esses três códigos nas URLs e no banner.
-  -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonhvito&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars&amp;commits_year=2026&amp;locale=pt-br&amp;bg_color=0D1117&amp;title_color=58C4DC&amp;text_color=E6EDF3&amp;icon_color=58C4DC&amp;hide_border=true" alt="Estatísticas públicas do GitHub de João Victor, com commits de 2026" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhvito&amp;layout=compact&amp;locale=pt-br&amp;bg_color=0D1117&amp;title_color=58C4DC&amp;text_color=E6EDF3&amp;hide_border=true" alt="Linguagens dos repositórios públicos de João Victor" width="40%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jonhvito&amp;hide_border=true&amp;locale=pt_BR&amp;background=0D1117&amp;ring=58C4DC&amp;fire=58C4DC&amp;currStreakLabel=58C4DC&amp;sideLabels=E6EDF3&amp;dates=E6EDF3&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3" alt="Histórico de dias consecutivos com contribuições no GitHub" width="65%" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonhvito&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars&amp;locale=pt-br&amp;bg_color=0D1117&amp;title_color=58C4DC&amp;text_color=E6EDF3&amp;icon_color=58C4DC&amp;hide_border=true" alt="Estatísticas públicas do GitHub de João Victor" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhvito&amp;layout=compact&amp;locale=pt-br&amp;bg_color=0D1117&amp;title_color=58C4DC&amp;text_color=E6EDF3&amp;hide_border=true" alt="Linguagens dos repositórios públicos de João Victor" width="40%" />
-  </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=jonhvito&amp;hide_border=true&amp;locale=pt_BR&amp;background=0D1117&amp;ring=58C4DC&amp;fire=58C4DC&amp;currStreakLabel=58C4DC&amp;sideLabels=E6EDF3&amp;dates=E6EDF3&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3" alt="Histórico de dias consecutivos com contribuições no GitHub" width="65%" />
-  </p>
-
-  <p><sub>As linguagens refletem o código dos repositórios públicos, não o nível de domínio de cada tecnologia.</sub></p>
-</details>
+<p><sub>As linguagens refletem o código dos repositórios públicos, não o nível de domínio de cada tecnologia.</sub></p>
 
 ## Atividade
 
